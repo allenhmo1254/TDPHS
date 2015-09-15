@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TDPHS.CSharp", "UnityVS.TDPHS.CSharp.csproj", "{6B40EB4A-F137-9559-BD54-8511B9CE49DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TDPHS.CSharp.Editor", "UnityVS.TDPHS.CSharp.Editor.csproj", "{D87D2261-FE9B-F415-EB10-670D33A717A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B40EB4A-F137-9559-BD54-8511B9CE49DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B40EB4A-F137-9559-BD54-8511B9CE49DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B40EB4A-F137-9559-BD54-8511B9CE49DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B40EB4A-F137-9559-BD54-8511B9CE49DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87D2261-FE9B-F415-EB10-670D33A717A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87D2261-FE9B-F415-EB10-670D33A717A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87D2261-FE9B-F415-EB10-670D33A717A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87D2261-FE9B-F415-EB10-670D33A717A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
